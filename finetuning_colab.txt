@@ -1,1 +1,5 @@
 https://colab.research.google.com/drive/1cI2yQyJUtsT1m85MdFuiF1XwNTNxjc1r?usp=sharing
+- gemma3 270m it train
+
+https://colab.research.google.com/drive/1iLqJBt9HZdtJLbmPuN-R8NxFzjd4wAF6?usp=sharing
+- gemma3 270m it finetune use
